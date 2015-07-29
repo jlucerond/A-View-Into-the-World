@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>177BF821-2DDE-4745-911F-048CD4324094</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>03A07ED6BEE6FCDBE5840151B567BE6D8B20537B</key>
+		<string>https://github.com/jlucerond/A-View-Into-the-World.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>A View Into the World.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>03A07ED6BEE6FCDBE5840151B567BE6D8B20537B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jlucerond/A-View-Into-the-World.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>03A07ED6BEE6FCDBE5840151B567BE6D8B20537B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>03A07ED6BEE6FCDBE5840151B567BE6D8B20537B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>A%20View%20Into%20the%20World</string>
+		</dict>
+	</array>
+</dict>
+</plist>

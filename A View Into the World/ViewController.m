@@ -58,9 +58,15 @@
     anotherButton.frame = CGRectMake(40, 40, 200, 100);
     anotherButton.backgroundColor = [UIColor greenColor];
     [anotherButton setTitle:@"press me" forState:UIControlStateNormal];
+    
     [self.view addSubview:anotherButton];
+    
+    [anotherButton addTarget:self action:@selector(didPressButton :) forControlEvents:UIControlEventTouchUpInside];
+}
 
-    [anotherButton removeFromSuperview];
+- (void) didPressButton : (UIButton *) button {
+    NSLog(@"this worked");
+    button.backgroundColor = [UIColor orangeColor];
 }
 
 @end
